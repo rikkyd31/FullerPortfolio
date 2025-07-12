@@ -2,13 +2,6 @@
 layout: cv
 title: Joshua Fuller CV
 ---
-# Isaac Newton
-Aspiring Accountant
-
-<div id="webaddress">
-<a href="">isaac@applesdofall.org</a>
-</div>
-
 
 
 # JOSHUA FULLER
@@ -16,15 +9,16 @@ Aspiring Accountant
 
 
 ### SUMMARY
------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
 Versatile accountant and data analyst focusing on driving workplace efficiency and delivering meaningful insights. I combine detail-oriented accounting knowledge with technical proficiency in tools like Excel, SQL, and Python to generate actionable results and support informed decision-making.
 
 
 ### EDUCATION
------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
-**Bachelor of Science: Accounting**							                          **September 2022 – April 2026**
+**Bachelor of Science: Accounting**  
+*September 2022 – April 2026*  
 *Brigham Young University – Idaho, Rexburg, ID*
 
 - Senior-year student with completed Auditing and Intermediate Accounting I and II coursework
@@ -33,7 +27,7 @@ Versatile accountant and data analyst focusing on driving workplace efficiency a
 
 
 ### SKILLS
------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
 - Data Analytics: Advanced Excel, VBA, Power BI, ChatGPT-4
 - Programming Languages: Python, Pandas, SQL
@@ -41,9 +35,10 @@ Versatile accountant and data analyst focusing on driving workplace efficiency a
 
 
 ### EXPERIENCE
------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
-**Accessibility Specialist**						                     	            **September 2023 - Present**
+**Accessibility Specialist**  
+*September 2023 - Present*  
 *Brigham Young University-Idaho, Rexburg, ID*
 
 - Maintain detailed spreadsheets for over 100 courses, tracking accessibility issues
@@ -53,21 +48,24 @@ Versatile accountant and data analyst focusing on driving workplace efficiency a
 
 
 ### VOLUNTEER EXPERIENCE
------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
-**Member, Data Science Society**							                            **September 2024 - Present**
+**Member, Data Science Society**  
+*September 2024 - Present*  
 *Brigham Young University-Idaho, Rexburg, ID*
 
 - Collaborate with a team to migrate an unstructured 40-sheet Excel database to a streamlined, SQL-based model
 - Utilize web scraping techniques to help collect weather data for a separate organization
 
-**Leadership Member, Accounting Society**               				                **January 2024 – April 2024**
+**Leadership Member, Accounting Society**  
+*January 2024 – April 2024*  
 *Brigham Young University-Idaho, Rexburg, ID*
 
 - Strengthened the society’s national presence by executing targeted LinkedIn outreach to alumni and professionals
 - Managed the official LinkedIn page, promoting events and connecting with industry experts
 
-**Volunteer Missionary**								                                **June 2017 – June 2019**
+**Volunteer Missionary**  
+*June 2017 – June 2019*  
 *Church of Jesus Christ of Latter-day Saints, Indianapolis, Indiana*
 
 - Helped lead technology adoption initiatives to volunteers and train interested parties
@@ -75,7 +73,7 @@ Versatile accountant and data analyst focusing on driving workplace efficiency a
 
 
 ### INTERESTS
------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
 - Learning Spanish via a language app
 
