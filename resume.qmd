@@ -1,87 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joshua Fuller CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Aspiring Accountant
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="">isaac@applesdofall.org</a>
 </div>
 
 
-## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+# JOSHUA FULLER
+## joshuafulld@gmail.com | (208)-403-4835
 
 
-### Research interests
+### SUMMARY
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Versatile accountant and data analyst focusing on driving workplace efficiency and delivering meaningful insights. I combine detail-oriented accounting knowledge with technical proficiency in tools like Excel, SQL, and Python to generate actionable results and support informed decision-making.
 
 
+### EDUCATION
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Awards
+**Bachelor of Science: Accounting**							                          **September 2022 – April 2026**
+*Brigham Young University – Idaho, Rexburg, ID*
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Senior-year student with completed Auditing and Intermediate Accounting I and II coursework
+- Practice preparing balance sheets, income statements, and general ledgers
+- Study Generally Accepted Accounting Principles (GAAP) and Generally Accepted Auditing Standards (GAAS)
 
 
-## Occupation
+### SKILLS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-`1600`
-__Royal Mint__, London
+- Data Analytics: Advanced Excel, VBA, Power BI, ChatGPT-4
+- Programming Languages: Python, Pandas, SQL
+- Software Proficiencies: Microsoft Office (Word, PowerPoint, Outlook), and Microsoft Teams
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### EXPERIENCE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Accessibility Specialist**						                     	            **September 2023 - Present**
+*Brigham Young University-Idaho, Rexburg, ID*
+
+- Maintain detailed spreadsheets for over 100 courses, tracking accessibility issues
+- Conduct one-on-one training sessions with 15–30 students per month to analyze and fulfill student needs
+- Worked independently to leverage AI tools to automate tasks, increasing audit efficiency by 20%
+- Follow through with students and team members to cultivate effective relationships and enhance student experience
+
+
+### VOLUNTEER EXPERIENCE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Member, Data Science Society**							                            **September 2024 - Present**
+*Brigham Young University-Idaho, Rexburg, ID*
+
+- Collaborate with a team to migrate an unstructured 40-sheet Excel database to a streamlined, SQL-based model
+- Utilize web scraping techniques to help collect weather data for a separate organization
+
+**Leadership Member, Accounting Society**               				                **January 2024 – April 2024**
+*Brigham Young University-Idaho, Rexburg, ID*
+
+- Strengthened the society’s national presence by executing targeted LinkedIn outreach to alumni and professionals
+- Managed the official LinkedIn page, promoting events and connecting with industry experts
+
+**Volunteer Missionary**								                                **June 2017 – June 2019**
+*Church of Jesus Christ of Latter-day Saints, Indianapolis, Indiana*
+
+- Helped lead technology adoption initiatives to volunteers and train interested parties
+- Guided group of 7-9 other missionaries, enhancing their skills through goal setting and coaching
+
+
+### INTERESTS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Learning Spanish via a language app
 
 
 <!-- ### Footer
